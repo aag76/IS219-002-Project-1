@@ -1,5 +1,5 @@
 # IS219-002-Project-1
-MIXED MARTIAL ARTS ANALYSIS
+UFC MIXED MARTIAL ARTS ANALYSIS
 
 Essential Question
 Who is the best UFC Mixed Martial Artist and what factors correlate with their success?
